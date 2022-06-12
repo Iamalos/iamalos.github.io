@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#section1 {
+    font-size: large;
+    color: blueviolet;
+    padding-top: 20px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.theme{
+    padding: 10px 10px 10px 10px;
+    background-color: green;
+    margin: 5px;
+}
